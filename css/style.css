@@ -1,0 +1,51 @@
+
+body {
+    background-color: #b5b6bb;
+}
+
+.vl1 {
+    border-left: 6px solid #ebe9dd;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
+
+  .banner1{
+    background-color: #153089;
+    border-radius: 10px;
+    border:2px solid white;
+  }
+  .banner2{
+    background-image: url('../images/banner2.jpg');
+    border-radius: 10px;
+  }
+
+.profileName{
+    background-color: #ebe9dd;
+    border-radius: 10px;
+    border-left: none;
+}
+
+.profileNameLabel{
+    font-size: 31px;
+    color: #42538b;
+}
+
+.menuLink{
+    color:white;
+}
+
+label,a,p,div{
+    font-family: sans-serif;
+}
+
+.div1{
+    border: 6px solid #ebe9dd;
+    border-radius: 10px;
+}
+
+.divHeader{
+    color:#153089;
+}
